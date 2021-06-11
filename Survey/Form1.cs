@@ -129,5 +129,10 @@ namespace Survey
         {
 
         }
+
+        private void Infoguna2Button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show($" Example for designed to transfer information between forms. \n CRUD(Create, Read, Update and Delete) of JSON used in file \n operations. ");
+        }
     }
 }

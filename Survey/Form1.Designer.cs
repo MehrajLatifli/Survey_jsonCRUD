@@ -90,6 +90,7 @@ namespace Survey
             this.Infoguna2Button1.Size = new System.Drawing.Size(180, 45);
             this.Infoguna2Button1.TabIndex = 3;
             this.Infoguna2Button1.Text = "Info";
+            this.Infoguna2Button1.Click += new System.EventHandler(this.Infoguna2Button1_Click);
             // 
             // Deleteguna2Button1
             // 
